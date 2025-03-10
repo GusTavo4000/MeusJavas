@@ -13,6 +13,6 @@
 
 <div align="center">
   
-  ## I hope you finded what you was looking for.
+  ## I hope you find what you was looking for.
   
 </div>
